@@ -2,4 +2,4 @@
 
 Hi Humans!
 
-GitHuber.
+GitHubers.
